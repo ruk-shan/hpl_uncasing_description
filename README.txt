@@ -9,10 +9,7 @@ modbus
 
 
 Change IP 
-
-ModbusReader_MQTTPublisher.py 
-    line 15 ROBOT IP
-    line 25 MQTT broker ip (local pc ip)
+setup_config.py
 
 mqttROS_params.yaml
     MQTT broker ip
